@@ -30,6 +30,7 @@
 
   <img src="https://img.shields.io/badge/OOP%20-251e3e.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
   <img src="https://img.shields.io/badge/TDD%20-451e3e.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
+   <img src="https://img.shields.io/badge/Sketch%20-651e3e.svg?&style=for-the-badge&logo=Sketch&logoColor=white" />
 </p>
 </section>
 
