@@ -6,8 +6,8 @@
   <p>I am currently studying front end engineering at Turing School of Software & Design in Denver, CO.
   I am learning 🧠 , improving 🌱 , and trying to impress my dog 🐶.</p>
 </div>
-  
 
+  
 <section align="center">
   <h3>I make and break things with these:</h3>
 <p>
@@ -33,4 +33,6 @@
    <img src="https://img.shields.io/badge/Sketch%20-651e3e.svg?&style=for-the-badge&logo=Sketch&logoColor=white" />
 </p>
 </section>
+
+[![Estelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estaffieri)](https://github.com/Estaffieri/github-readme-stats)
 
