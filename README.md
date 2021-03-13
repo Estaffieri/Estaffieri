@@ -13,7 +13,7 @@
 <p>
   <img src="https://img.shields.io/badge/javascript%20-051e3e.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/html5%20-251e3e.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3%20-451e3e.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/css3%20-451e3e.svg?&style=for-the-badge&logo=css3&logoColor=white" /> -->
 
   <img src="https://img.shields.io/badge/react%20-651e3e.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js%20-251e3e.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
