@@ -3,8 +3,8 @@
 </section>
 <div align="center">
 <h1>Hey, I'm Estelle</h1>
-  <p>I love code and solving problems! Right now I'm geeking out on testing at Aetna and playing around with Swift in my spare time.
-  I am always learning 🧠 , improving 🌱 , and trying to impress my dog 🐶.</p>
+  <p>I love code and solving problems! Right now I'm geeking out on testing and playing around with Swift in my spare time.
+  I am always learning 🧠 , improving 🌱 , and trying to be the person my dog thinks I am 🐶.</p>
 </div>
 
   
@@ -28,12 +28,13 @@
   <img src="https://img.shields.io/badge/InDesign%20-851e3e.svg?&style=for-the-badge&logo=AdobeIndesign&logoColor=white" />
   <img src="https://img.shields.io/badge/sass%20-051e3e.svg?&style=for-the-badge&logo=sass&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/OOP%20-251e3e.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
-  <img src="https://img.shields.io/badge/TDD%20-451e3e.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sketch%20-651e3e.svg?&style=for-the-badge&logo=Sketch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cucumber%20-851e3e.svg?&style=for-the-badge&logo=Cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress%20-051e3e.svg?&style=for-the-badge&logo=Cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP%20-451e3e.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
+  <img src="https://img.shields.io/badge/TDD%20-651e3e.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sketch%20-851e3e.svg?&style=for-the-badge&logo=Sketch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber%20-051e3e.svg?&style=for-the-badge&logo=Cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress%20-651e3e.svg?&style=for-the-badge&logo=Cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/CircleCI%20-251e3e.svg?&style=for-the-badge&logo=CircleCI&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker%20-451e3e.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
     
 
 </p>
