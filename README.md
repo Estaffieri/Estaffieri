@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/badge/Cypress%20-651e3e.svg?&style=for-the-badge&logo=Cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/CircleCI%20-251e3e.svg?&style=for-the-badge&logo=CircleCI&logoColor=white" />
   <img src="https://img.shields.io/badge/docker%20-451e3e.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright%20-651e3e.svg?&style=for-the-badge&logo=Playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket%20-851e3e.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white" />
     
 
 </p>
