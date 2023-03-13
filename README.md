@@ -5,7 +5,7 @@
 <h1>Hey, I'm Estelle</h1>
   <p>I love code and solving problems! Right now I'm geeking out on testing and playing around with Swift in my spare time.
   I am always learning 🧠 , improving 🌱 , and trying to be the person my dog thinks I am 🐶.</p>
-    <a href="https://app.daily.dev/Edas"><img src="https://api.daily.dev/devcards/43a9e129247d4108b5a7e45dfe486038.png?r=v17" width="400" alt="Estelle's Dev Card"/></a>
+    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/edas/blob/master/devcard.svg" width="400" alt="Estelle's Dev Card"/></a>
 </div>
 
   
